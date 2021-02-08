@@ -44,5 +44,13 @@ print(len(my_list))
 #print(y)
 
 
-print(len('hello/tworld'))
+print('hello/tworld'[-1])
+
+my_letters= ['a','a','b','b','c']
+print(my_letters)
+print(set(my_letters))
+
+my_unique_letters = set(my_letters)
+
+print(list(my_unique_letters)[0])
 
