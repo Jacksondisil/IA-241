@@ -12,4 +12,9 @@ Share labs and final projects in IA 241
 
 3rd paragraphs
 
-## level 3 heading
+### level 3 heading
+
+**bold**
+*italicize*
+
+> quote
